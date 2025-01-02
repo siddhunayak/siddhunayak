@@ -24,38 +24,12 @@
         <li><strong>Data Science:</strong> Data Cleaning, Data Analysis, Web Scraping, Visualization</li>
         <li><strong>AI Projects:</strong> Time Series Data, Legal Text Summarization, Fault Detection Models</li>
     </ul>
-    <h2>Current Projects</h2>
-    <h3>1. Solar Panel Fault Detection (SolarPanelClassifier)</h3>
-    <p>A deep learning-based model built using <strong>EfficientNet B0</strong> to classify solar panel images into categories such as 'clean,' 'dusty,' 'physical damage,' and more.</p>
-    <ul>
-        <li>Achieved <strong>90% accuracy</strong> in classifying images.</li>
-        <li>Use of <strong>CrossEntropyLoss</strong> and <strong>Adam Optimizer</strong> for optimization.</li>
-    </ul>
-<h3>2. Legal Document Summarization</h3>
-    <p>Developing a model to summarize bilingual legal documents using the <strong>Longformer</strong> encoder-decoder architecture.</p>
-    <ul>
-        <li>Cleaned and formatted data for model training.</li>
-        <li>Utilized <strong>Hugging Face's AutoTokenizer</strong> and <strong>Dataset</strong> classes for efficient text preprocessing.</li>
-    </ul>
-  <h3>3. Poultry Farm Analysis Using Animal Sounds</h3>
-    <p>Researching how <strong>animal sounds</strong> can aid in diagnosing poultry farm conditions.</p>
-    <ul>
-        <li>Gathering data on sound classifications.</li>
-        <li>Aiming to improve farm management with predictive analytics.</li>
-    </ul>
-<h2>Past Projects</h2>
-    <ul>
-        <li><strong>Sentiment Analysis:</strong> Built various classification models with <strong>10-Fold Cross Validation</strong>, tuning <strong>Logistic Regression</strong> for the best accuracy and F1 score.</li>
- <h2>Certifications</h2>
-    <ul>
-        <li><strong>Introduction to SQL</strong> (DataCamp)</li>
-        <li><strong>Intermediate SQL</strong> (DataCamp)</li>
-        <li><strong>Machine Learning & AI</strong> (Coursera)</li>
-    </ul>
+   
+ 
  <h2>Contact</h2>
     <ul>
-        <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/siddhu-nayak-970b29289/)" target="_blank">[LinkedIn Profile ](https://www.linkedin.com/in/siddhu-nayak-970b29289/)Link</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/siddhunayak" target="_blank">[siddhu's GitHub](https://github.com/siddhunayak)</a></li>
+        <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/siddhu-nayak-970b29289/)" target="_blank">https://www.linkedin.com/in/siddhu-nayak-970b29289/</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/siddhunayak" target="_blank">(https://github.com/siddhunayak)</a></li>
     </ul>
 
 </body>
