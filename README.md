@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Siddhu's Portfolio</title>
+   
 </head>
 <body>
     <h1>Siddhu Nayak</h1>
@@ -13,7 +13,7 @@
     <ul>
         <li>👯 I’m looking for full-time roles in <strong>AI/ML</strong>, <strong>Data Science</strong>, and <strong>Mechanical Engineering</strong> sectors after graduation .</li>
         <li>💬 Ask me about <strong>time series forecasting</strong>, <strong>computer vision</strong>, <strong>NLP</strong>, <strong>data cleaning</strong>, and <strong>AI models</strong>.</li>
-        <li>📫 How to reach me: <a href="mailto:siddhunayak03@example.com">email@example.com</a></li>
+        <li>📫 How to reach me: <a href="mailto:siddhunayak03@example.com">nenavathsiddhu0326@gmail.com</a></li>
     </ul>
     <h2>Key Skills</h2>
     <ul>
@@ -54,8 +54,8 @@
     </ul>
  <h2>Contact</h2>
     <ul>
-        <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/siddhu-nayak-970b29289/)" target="_blank">LinkedIn Profile Link</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/siddhunayak" target="_blank">siddhu's GitHub</a></li>
+        <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/siddhu-nayak-970b29289/)" target="_blank">[LinkedIn Profile ](https://www.linkedin.com/in/siddhu-nayak-970b29289/)Link</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/siddhunayak" target="_blank">[siddhu's GitHub](https://github.com/siddhunayak)</a></li>
     </ul>
 
 </body>
