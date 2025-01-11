@@ -16,8 +16,7 @@
  
  <h2>Contact</h2>
     <ul>
-        <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/siddhu-nayak-970b29289/)" target="_blank"></a></li>
-       
+        <li><strong>LinkedIn:</strong> <a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/siddhu-nayak-970b29289/)" target="_blank">linkedin</a></li>
     </ul>
 
 </body>
