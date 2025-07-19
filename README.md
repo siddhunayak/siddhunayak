@@ -1,98 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Siddhu Nayak | ML Portfolio</title>
-  <script src="https://unpkg.com/lucide@latest"></script>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #0a66c2;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    li {
-      display: flex;
-      align-items: center;
-      margin: 0.5rem 0;
-    }
-    li svg {
-      margin-right: 10px;
-      stroke-width: 1.5;
-    }
-    .icon {
-      width: 20px;
-      height: 20px;
-    }
-  </style>
-</head>
-<body>
+# 👋 Hey there, I'm Siddhu Nayak
 
-  <h1>Siddhu Nayak</h1>
-  <p>
-    Machine Learning Enthusiast | NLP & Vision | Building Real-World AI Solutions
-  </p>
+🎓 B.Tech in Computer Science | 💡 Machine Learning Intern | 🧠 Building Real-World AI with NLP, Vision, and Time Series
 
-  <h2>🧠 About Me</h2>
-  <p>
-    I'm a Computer Science Engineering student passionate about building intelligent systems. I work on real-world problems using NLP, Computer Vision, and LLMs across academic and internship settings.
-  </p>
+---
 
-  <h2>🛠️ Technical Skills</h2>
+## 🧠 About Me
 
-  <h3>Languages & Frameworks</h3>
-  <ul>
-    <li><i data-lucide="code" class="icon"></i> C, C++</li>
-    <li><i data-lucide="code-2" class="icon"></i> Python</li>
-    <li><i data-lucide="flame" class="icon"></i> PyTorch, TensorFlow</li>
-    <li><i data-lucide="brain" class="icon"></i> Hugging Face Transformers</li>
-    <li><i data-lucide="line-chart" class="icon"></i> Scikit-learn</li>
-    <li><i data-lucide="box" class="icon"></i> Docker</li>
-    <li><i data-lucide="git-branch" class="icon"></i> Git</li>
-  </ul>
+I'm a passionate Machine Learning practitioner with a focus on delivering practical, impactful AI solutions. I specialize in **Natural Language Processing**, **Computer Vision**, and **Time Series Forecasting** using tools like PyTorch, TensorFlow, and Hugging Face. My work blends academic depth with real-world deployment experience.
 
-  <h3>Tools & Platforms</h3>
-  <ul>
-    <li><i data-lucide="cloud" class="icon"></i> REST APIs</li>
-    <li><i data-lucide="server-cog" class="icon"></i> CI/CD Pipelines</li>
-    <li><i data-lucide="app-window" class="icon"></i> Streamlit</li>
-    <li><i data-lucide="terminal" class="icon"></i> VS Code</li>
-    <li><i data-lucide="notebook" class="icon"></i> Jupyter Notebook</li>
-    <li><i data-lucide="laptop" class="icon"></i> Google Colab</li>
-  </ul>
+---
 
-  <h3>Machine Learning Focus Areas</h3>
-  <ul>
-    <li><i data-lucide="activity" class="icon"></i> Supervised & Unsupervised Learning</li>
-    <li><i data-lucide="mic" class="icon"></i> Natural Language Processing</li>
-    <li><i data-lucide="image" class="icon"></i> Computer Vision</li>
-    <li><i data-lucide="clock" class="icon"></i> Time Series Forecasting</li>
-  </ul>
+## 🛠️ Technical Skills
 
-  <h2>🔗 Contact</h2>
-  <ul>
-    <li>
-      <i data-lucide="linkedin" class="icon"></i>
-      <a href="https://www.linkedin.com/in/siddhu-nayak-970b29289/" target="_blank">LinkedIn Profile</a>
-    </li>
-    <li>
-      <i data-lucide="mail" class="icon"></i>
-      <a href="mailto:your-email@example.com">your-email@example.com</a>
-    </li>
-  </ul>
+### 🧾 Languages & Frameworks
+- `C`, `C++`, `Python`
+- `PyTorch`, `TensorFlow`
+- `Hugging Face Transformers`, `scikit-learn`
 
-  <script>
-    lucide.createIcons();
-  </script>
-</body>
-</html>
+### 🧰 Tools & Platforms
+- `Docker`, `Git`, `VS Code`
+- `Streamlit`, `Jupyter Notebook`, `Google Colab`
+- `REST APIs`, `CI/CD Pipelines`
+
+### 🤖 Focus Areas
+- Supervised & Unsupervised Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Time Series Analysis & Forecasting
+
+---
+
+## 🚀 Highlight Projects
+
+### 🧠 Resume Matcher & Tailor Tool
+> `Python` `Hugging Face` `Streamlit` `Gemini 1.5`
+- Built an AI-powered resume analysis tool using **Hugging Face Transformers** & **Gemini 1.5**.
+- Achieved **18% accuracy improvement** over baseline matchers.
+- Enabled real-time keyword comparison, LLM-generated summaries, and resume improvement suggestions.
+- Deployed with Streamlit — reduced manual tailoring time by **80%**.
+
+### 🐓 Chicken Pose Detection (Poultry Farm AI)
+> `RT-DETR` `Computer Vision` `COCO Format`
+- Used **RT-DETR** to detect chicken poses for early health diagnosis in poultry farms.
+- Annotated custom keypoints and trained the model on Roboflow’s COCO-style dataset.
+- Enabled fine-grained classification for pose irregularities in a noisy farm environment.
+
+---
+
+## 📈 GitHub Stats
+
+![Siddhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhu-nayak&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddhu-nayak-970b29289/)  
+📬 Email: **nenavathsiddhu0326@gmail.com**
+
+---
+
+> ⚡ Always exploring the intersection of AI and real-world impact. Let’s build something together!
