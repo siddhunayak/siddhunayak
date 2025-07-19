@@ -1,34 +1,41 @@
 # 👋 Hey there, I'm Siddhu Nayak
 
-🎓 B.Tech in Computer Science | 💡 Machine Learning Intern | 🧠 Building Real-World AI with NLP, Vision, and Time Series
+🎓 B.Tech in Computer Science | 💡 Machine Learning Intern  
+🧠 Building Real-World AI with NLP, Vision, and Time Series
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate Machine Learning practitioner with a focus on delivering practical, impactful AI solutions. I specialize in **Natural Language Processing**, **Computer Vision**, and **Time Series Forecasting** using tools like PyTorch, TensorFlow, and Hugging Face. My work blends academic depth with real-world deployment experience.
+I'm a passionate Machine Learning practitioner focused on delivering practical, impactful AI solutions. I specialize in **Natural Language Processing**, **Computer Vision**, and **Time Series Forecasting** using tools like PyTorch, TensorFlow, and Hugging Face. My work blends academic depth with real-world deployment experience.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🧾 Languages & Frameworks
-- `C`, `C++`, `Python`
-- `PyTorch`, `TensorFlow`
-- `Hugging Face Transformers`, `scikit-learn`
+- 🐍 **Python**
+- 💻 **C**, **C++**
+- 🔥 **PyTorch**, 🧠 **TensorFlow**
+- 🤗 **Hugging Face Transformers**
+- 📊 **Scikit-learn**
 
-### 🧰 Tools & Platforms
-- `Docker`, `Git`, `VS Code`
-- `Streamlit`, `Jupyter Notebook`, `Google Colab`
-- `REST APIs`, `CI/CD Pipelines`
+### ⚙️ Tools & Platforms
+- 🐳 **Docker**
+- 🗃️ **Git**
+- 📟 **VS Code**
+- 🌐 **Streamlit**
+- 📓 **Jupyter Notebook**
+- ☁️ **Google Colab**
+- 🔗 **REST APIs**, 🔁 **CI/CD Pipelines**
 
-### 🤖 Focus Areas
-- Supervised & Unsupervised Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Time Series Analysis & Forecasting
+### 🤖 Machine Learning Focus Areas
+- 📈 **Supervised & Unsupervised Learning**
+- 🗣️ **Natural Language Processing (NLP)**
+- 👁️ **Computer Vision**
+- 🕒 **Time Series Forecasting**
 
----
+
 
 ---
 
